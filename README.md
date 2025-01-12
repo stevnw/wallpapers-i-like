@@ -8,3 +8,5 @@ Credits:
 - Mio.jpg - Mio from K-on (Kyoto Animation Studios) - Wallpaper by Edotenseihime.deviantart.com
 - dragonball.png - An unknown edit of Akira Toriyama's Dragon Ball manga art of Goku and Vegeta stand off from Saiyan Saga (specific panels are from CH34 of dragonball z (CH228 if you include all of dragon ball) manga, specifically I believe this is originally from the Dragon Ball Full Color Saiyan Arc, vol 2 (ISBN-10:  9781421565934 ))
 - ghibli.png - I believe this is a frame from Studio Ghibli's Spirited Away (2001)
+- wojak_dr_manhattan.png - A wojak edited on to the iconic Dr Manhattan scene, from Alan Moore and Dave Gibbons' Watchmen comic
+- x220.png - An exploded view of the components in a Thinkpad x220 - I think I found it on reddit ?
